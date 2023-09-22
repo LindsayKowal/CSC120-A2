@@ -36,7 +36,7 @@ def main():
         1024, 64,
         "macOS Big Sur", 2013, 1500
     )
-
+    #attributes above, string/integer are methods,
     # Print a little banner
     print("-" * 21)
     print("COMPUTER RESALE STORE")
